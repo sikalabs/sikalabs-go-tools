@@ -14,3 +14,10 @@ ln -s /usr/local/bin/sikalabs-go-tools /usr/local/bin/slr
 # and so on
 ```
 
+## Installation
+
+You can install `sikalabs-go-tools` using `go install`:
+
+```
+go install github.com/sikalabs/sikalabs-go-tools@latest
+```
