@@ -21,3 +21,7 @@ You can install `sikalabs-go-tools` using `go install`:
 ```
 go install github.com/sikalabs/sikalabs-go-tools@latest
 ```
+
+## Inspiration
+
+The idea behind `sikalabs-go-tools` is inspired by my example project [ondrejsika/large](https://github.com/ondrejsika/large) for my [Docker Training](https://ondrej-sika.cz/skoleni/docker).
