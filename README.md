@@ -1,4 +1,4 @@
-[SikaLabs (sikalabs.com)](https://sikalabs.com) | [Ondrej Sika (sika.io)](https://sika.io)
+[SikaLabs (sikalabs.com)](https://sikalabs.com) | [Ondrej Sika (sika.io)](https://sika.io)  | [**Skoleni Go**](https://ondrej-sika.cz/skoleni/go/) 🚀💻
 
 # sikalabs-go-tools
 
