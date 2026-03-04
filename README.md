@@ -1,1 +1,1 @@
-# sikalabs-tools-go
+# sikalabs-go-tools
