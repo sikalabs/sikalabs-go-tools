@@ -2,7 +2,7 @@
 
 # sikalabs-go-tools
 
-`sikalabs-go-tools` is a single binary which contains `slu`, `slr`, `tergum`, `gobble` and `mon`.
+`sikalabs-go-tools` is a single binary which contains [slu](https://github.com/sikalabs/slu), [slr](https://github.com/sikalabs/slr), [tergum](https://github.com/sikalabs/tergum), [gobble](https://github.com/sikalabs/gobble) and [mon](https://github.com/sikalabs/mon).
 
 Idea behind it is to save disk space mostly in Docker images. Instead of installing 5 separate binaries, you can install just one and use it for all 5 tools. Instead of 5x 200MB you have just 1x 250MB.
 
